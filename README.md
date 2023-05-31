@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate Backend developer with also nice skills in Software Architecture and who can build React/React Native apps.</h3>
 
-- I'm currently preparing myself for **AWS Software Architect Certification**
-
 - 📫 How to reach me **vinicius.vas.ti@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
